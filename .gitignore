@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+.idea/*
+*.iml
+*.iws
+
+# sbt
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
